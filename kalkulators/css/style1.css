@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(160, 160, 145);
+    }
+    .viss{
+        border-style:solid;
+        border-color:rgb(71, 67, 67);
+        margin-top:10%;
+        margin-bottom:10%;
+        margin-left:5%;
+        margin-right:5%;
+        /*display:flex;
+        align-items:center;*/
+        padding:5%;
+    }
+button0{
+margin-right:5%;
+}

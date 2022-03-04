@@ -1,0 +1,33 @@
+
+body{
+background-color:rgb(160, 160, 145);
+}
+.viss{
+    border-style:solid;
+    border-color:rgb(71, 67, 67);
+    margin-top:10%;
+    margin-bottom:10%;
+    margin-left:30%;
+    margin-right:30%;
+    /*display:flex;
+    align-items:center;*/
+    padding:5%;
+}
+.kalkulators{
+    display:flex;
+}
+.kolonna1{
+    flex:0%;
+}
+.kolonna2{
+    flex:0%;
+}
+.kolonna3{
+    flex:0%;
+}
+.kolonna4{
+    flex:0%;
+}
+.button1{
+    padding:3px;
+}
